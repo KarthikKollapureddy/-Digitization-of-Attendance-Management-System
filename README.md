@@ -20,9 +20,9 @@ Many schools in india are still capturing sttendance records of students manuall
 1. Student's details that school would like to record as attendance<br>
 2. Mobile application for attendance management
   
-<h2>Faculty Feedback</h2>
+<h2>Report From Faculty</h2>
 <p align="center">
-  <kbd><img src="https://github.com/KarthikKollapureddy/-Digitization-of-Attendance-Management-System/blob/main/Project%20Report.png" width="1000" height="300"></kbd>
+  <kbd><img src="https://github.com/KarthikKollapureddy/-Digitization-of-Attendance-Management-System/blob/main/Project%20Report.png"></kbd>
 </p>
 <br>
 <h2>Important Links</h2>
