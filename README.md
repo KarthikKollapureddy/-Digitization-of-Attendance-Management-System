@@ -21,7 +21,9 @@ Many schools in india are still capturing sttendance records of students manuall
 2. Mobile application for attendance management
   
 <h2>Faculty Feedback</h2>
-![report](https://user-images.githubusercontent.com/89505668/146134999-53836a97-a115-46ad-b11f-c69537cc48a9.png)
+<p align="center">
+  <kbd><img src="https://github.com/KarthikKollapureddy/-Digitization-of-Attendance-Management-System/blob/main/Project%20Report.png" width="1000" height="300"></kbd>
+</p>
 <br>
 <h2>Important Links</h2>
 Run the app directly in your Browser: <a href="https://www.appsheet.com/start/6ede14a7-0b53-4d3f-9647-649f11623de8
